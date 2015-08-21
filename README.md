@@ -1,1 +1,2 @@
 # programming-for-testers
+/test/
